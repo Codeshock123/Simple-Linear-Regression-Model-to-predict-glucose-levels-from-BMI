@@ -63,6 +63,7 @@ plt.xlabel('BMI')
 plt.ylabel('Glucose')
 plt.title('BMI vs Glucose')
 plt.show()
+```
 
 9. Correlation
 ```
