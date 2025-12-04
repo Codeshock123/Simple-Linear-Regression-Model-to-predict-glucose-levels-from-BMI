@@ -114,14 +114,15 @@ model.intercept_
 ```
 
 ---
+
 📊 Metrics
 
-| Metric | Value |
-| --- | :--- | ---: |
-| $R^2$ | 0.0326 |
-| Mean Squared Error (MSE) | 950.8 |
-| Slope (Coefficient) | 1.03 |
-| Intercept | 87.67 |
+| Metric                     | Value    |
+|---------------------------|----------|
+| R² (R Square)             | 0.0326   |
+| Mean Squared Error (MSE)  | 950.8    |
+| Slope (Coefficient)       | 1.03     |
+| Intercept                 | 87.67    |
 
 ---
 
